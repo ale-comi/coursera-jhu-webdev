@@ -1,1 +1,1 @@
-# coursera-jhu-webdev
+# Practice repository
